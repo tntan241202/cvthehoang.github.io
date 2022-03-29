@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background:linear-gradient(rgba(14, 13, 13, 0.5),rgba(238, 238, 238, 0.5)), url(bg.jpg);
+    background:#000;
     justify-content: center;
     display: flex;
     align-items: center;
